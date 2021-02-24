@@ -2,6 +2,6 @@
 
 This is Jean Looi again!
 
-Welcome to GitHub!
+Welcome to GitHub! I am Jean
 
 This is updated to jean-feature branch
